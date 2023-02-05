@@ -1,0 +1,9 @@
+{
+    "stt_url" : "http://stt.ainapidev.shinhan.com/asr/recognition/?productcod=SHB&algin=yes&transactionid=0%domain=IPCC",
+
+    "database" : {
+            "url" : "172.23.248.134:1843/DSTMDB",
+            "user" : "AIICON",
+            "password" : "cia25noc48 "
+    }
+}
