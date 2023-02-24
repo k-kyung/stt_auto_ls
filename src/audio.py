@@ -1,14 +1,20 @@
 from pydub import AudioSegment
+import logging
+from logger import Logger
+
+
+logger = logging.getLogger("STT")
+
 
 class Audio:
-
     input_path: str
     audio_file: AudioSegment
     sample_rate: int
     output_path: str
     format: str
-    
+
     def __init__(self, input_path):
+        logger.info("init Audio class")
         self.audio_file = AudioSegment.from_file(input_path)
 
     def convert_stereo_to_mono(self):
@@ -30,7 +36,7 @@ class Audio:
             Logic: sample rate가 변환된 오디오 객체
         """
         self.audio_file.set_frame_rate(sample_rate)
-        return 
+        return
 
     def export_wav(self, output_path, format):
         """
@@ -40,5 +46,5 @@ class Audio:
                 output_file : 변환된 오디오 파일 경로
             Logic: X, wav 파일 저장
         """
-        self.audio_file.export(output_path, format) 
+        self.audio_file.export(output_path, format)
         return

@@ -1,0 +1,361 @@
+[2023-02-22 15:48:52,827][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 15:48:52,827][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma
+[2023-02-22 15:48:52,827][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:48:52,827][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 15:48:52,848][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:48:52,848][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 15:48:52,848][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma
+[2023-02-22 15:48:52,848][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:48:52,849][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 15:48:52,858][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 15:48:52,876][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 15:48:52,876][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma
+[2023-02-22 15:48:52,876][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:48:52,877][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 15:48:52,899][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 15:48:52,900][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma
+[2023-02-22 15:48:52,900][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:48:52,900][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 15:48:52,911][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 15:48:52,925][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 15:48:52,925][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma
+[2023-02-22 15:48:52,925][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:48:52,925][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 15:48:52,935][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 15:48:52,949][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 15:48:52,950][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma
+[2023-02-22 15:48:52,950][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:48:52,950][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 15:48:52,975][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-22 15:48:52,975][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma
+[2023-02-22 15:48:52,975][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:48:52,975][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-22 15:48:52,997][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma', is_directory=False>
+[2023-02-22 15:48:52,997][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma
+[2023-02-22 15:48:52,997][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:48:52,997][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma', is_directory=False>
+[2023-02-22 15:48:53,339][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 15:48:53,339][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 15:48:53,358][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 15:48:53,358][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 15:48:53,372][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 15:48:53,372][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 15:48:53,386][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-22 15:48:53,386][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma', is_directory=False>
+[2023-02-22 15:48:53,434][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:49:03,597][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma
+[2023-02-22 15:49:13,599][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma
+[2023-02-22 15:49:23,600][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma
+[2023-02-22 15:49:33,605][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma
+[2023-02-22 15:49:43,607][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma
+[2023-02-22 15:49:53,610][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma
+[2023-02-22 15:50:03,616][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma
+[2023-02-22 15:50:13,619][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma
+[2023-02-22 15:51:15,065][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 15:51:15,066][INFO|wadog.py:71] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 15:51:15,066][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:15,080][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:15,114][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 15:51:15,115][INFO|wadog.py:71] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 15:51:15,116][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:15,266][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 15:51:15,266][INFO|wadog.py:71] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 15:51:15,267][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:15,390][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 15:51:15,391][INFO|wadog.py:71] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 15:51:15,391][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:15,564][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 15:51:15,565][INFO|wadog.py:71] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 15:51:15,565][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:15,714][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 15:51:15,714][INFO|wadog.py:71] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 15:51:15,714][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:15,833][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-22 15:51:15,834][INFO|wadog.py:71] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-22 15:51:15,834][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:15,943][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma', is_directory=False>
+[2023-02-22 15:51:15,943][INFO|wadog.py:71] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma', is_directory=False>
+[2023-02-22 15:51:15,943][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:16,075][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:25,310][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 15:51:25,310][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma
+[2023-02-22 15:51:25,310][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:25,310][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 15:51:25,328][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:25,328][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 15:51:25,328][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma
+[2023-02-22 15:51:25,328][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:25,328][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 15:51:25,343][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 15:51:25,358][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 15:51:25,358][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma
+[2023-02-22 15:51:25,358][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:25,358][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 15:51:25,368][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 15:51:25,369][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 15:51:25,369][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma
+[2023-02-22 15:51:25,369][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:25,369][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 15:51:25,391][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 15:51:25,822][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 15:51:25,832][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 15:51:25,833][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 15:51:25,848][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 15:51:25,928][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:35,825][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma
+[2023-02-22 15:51:42,378][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 15:51:42,378][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma
+[2023-02-22 15:51:42,378][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:42,378][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 15:51:42,388][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 15:51:42,388][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma
+[2023-02-22 15:51:42,388][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:42,388][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 15:51:42,398][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 15:51:42,411][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-22 15:51:42,411][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma
+[2023-02-22 15:51:42,411][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:42,411][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-22 15:51:42,432][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma', is_directory=False>
+[2023-02-22 15:51:42,433][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma
+[2023-02-22 15:51:42,433][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:42,433][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma', is_directory=False>
+[2023-02-22 15:51:42,879][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 15:51:43,375][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 15:51:43,375][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 15:51:43,393][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-22 15:51:43,393][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma', is_directory=False>
+[2023-02-22 15:51:45,826][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma
+[2023-02-22 15:51:53,701][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma
+[2023-02-22 15:52:03,705][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma
+[2023-02-22 15:52:13,706][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma
+[2023-02-22 15:52:23,707][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma
+[2023-02-22 15:52:33,708][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma
+[2023-02-22 15:52:43,713][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma
+[2023-02-22 15:52:52,170][ERROR|wadog.py:32] >> Error
+[2023-02-22 15:52:52,170][INFO|main.py:44] >> Watching Dir Start....
+[2023-02-22 16:10:26,542][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 16:10:26,542][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma
+[2023-02-22 16:10:26,542][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:10:26,542][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 16:10:26,563][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 16:10:26,563][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:10:26,587][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 16:10:26,587][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma
+[2023-02-22 16:10:26,587][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:10:26,587][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 16:10:26,601][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 16:10:26,639][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 16:10:26,639][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma
+[2023-02-22 16:10:26,640][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:10:26,640][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 16:10:26,659][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 16:10:26,690][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 16:10:26,690][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma
+[2023-02-22 16:10:26,690][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:10:26,690][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 16:10:26,730][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 16:10:26,730][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma
+[2023-02-22 16:10:26,730][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:10:26,730][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 16:10:26,742][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 16:10:27,055][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 16:10:27,055][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:10:27,055][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 16:10:27,069][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 16:10:27,069][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 16:10:31,151][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:10:31,433][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:10:35,632][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:10:35,654][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:10:37,006][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma
+[2023-02-22 16:11:31,930][ERROR|wadog.py:32] >> Error
+[2023-02-22 16:11:31,930][INFO|main.py:44] >> Watching Dir Start....
+[2023-02-22 16:20:20,868][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 16:20:20,868][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma
+[2023-02-22 16:20:20,868][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:20:20,869][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 16:20:20,882][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-22 16:20:20,882][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 16:20:20,882][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma
+[2023-02-22 16:20:20,883][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:20:20,883][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 16:20:20,883][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:20:20,893][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 16:20:20,911][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 16:20:20,912][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma
+[2023-02-22 16:20:20,912][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:20:20,912][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 16:20:20,933][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 16:20:20,943][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 16:20:20,943][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma
+[2023-02-22 16:20:20,943][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:20:20,943][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 16:20:20,969][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 16:20:20,996][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 16:20:20,996][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma
+[2023-02-22 16:20:20,997][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:20:20,997][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 16:20:21,007][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 16:20:21,020][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 16:20:21,020][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma
+[2023-02-22 16:20:21,020][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:20:21,021][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 16:20:21,032][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 16:20:21,052][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-22 16:20:21,052][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma
+[2023-02-22 16:20:21,052][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:20:21,052][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-22 16:20:21,066][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-22 16:20:21,084][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma', is_directory=False>
+[2023-02-22 16:20:21,085][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma
+[2023-02-22 16:20:21,085][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:20:21,085][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma', is_directory=False>
+[2023-02-22 16:20:21,094][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma', is_directory=False>
+[2023-02-22 16:20:21,380][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-22 16:20:21,380][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-22 16:20:21,380][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-22 16:20:21,394][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-22 16:20:21,395][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-22 16:20:21,409][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-22 16:20:21,409][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-22 16:20:21,424][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본.wma', is_directory=False>
+[2023-02-22 16:21:07,376][ERROR|wadog.py:32] >> Error
+[2023-02-22 16:21:07,376][INFO|main.py:45] >> Watching Dir Start....
+[2023-02-23 17:22:29,526][ERROR|wadog.py:32] >> Error
+[2023-02-23 17:22:29,527][INFO|main.py:46] >> Watching Dir Start....
+[2023-02-23 17:23:00,456][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-23 17:23:00,457][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma
+[2023-02-23 17:23:00,457][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:23:00,457][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-23 17:23:00,472][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-23 17:23:00,472][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:23:00,472][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-23 17:23:00,472][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma
+[2023-02-23 17:23:00,472][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:23:00,472][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-23 17:23:00,492][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-23 17:23:00,508][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-23 17:23:00,508][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma
+[2023-02-23 17:23:00,508][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:23:00,508][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-23 17:23:00,524][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-23 17:23:00,524][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-23 17:23:00,524][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma
+[2023-02-23 17:23:00,524][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:23:00,524][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-23 17:23:00,547][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-23 17:23:00,578][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-23 17:23:00,578][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma
+[2023-02-23 17:23:00,578][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:23:00,578][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-23 17:23:00,595][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-23 17:23:00,969][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-23 17:23:00,969][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:23:00,969][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-23 17:23:00,984][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-23 17:23:00,984][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-23 17:23:03,105][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:23:03,593][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:23:05,212][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:23:05,785][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:25:32,745][ERROR|wadog.py:32] >> Error
+[2023-02-23 17:25:32,745][INFO|main.py:44] >> Watching Dir Start....
+[2023-02-23 17:52:19,928][ERROR|wadog.py:32] >> Error
+[2023-02-23 17:52:19,928][INFO|main.py:44] >> Watching Dir Start....
+[2023-02-23 17:56:04,498][ERROR|wadog.py:32] >> Error
+[2023-02-23 17:56:04,498][INFO|main.py:44] >> Watching Dir Start....
+[2023-02-23 17:57:58,931][ERROR|wadog.py:32] >> Error
+[2023-02-23 17:57:58,931][INFO|main.py:44] >> Watching Dir Start....
+[2023-02-23 17:59:16,498][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-23 17:59:16,499][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma
+[2023-02-23 17:59:16,499][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:59:16,499][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-23 17:59:16,509][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-23 17:59:16,509][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-23 17:59:16,509][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma
+[2023-02-23 17:59:16,510][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:59:16,510][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-23 17:59:16,531][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-23 17:59:16,532][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-23 17:59:16,532][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma
+[2023-02-23 17:59:16,532][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:59:16,532][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-23 17:59:16,554][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-23 17:59:16,554][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-23 17:59:16,554][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma
+[2023-02-23 17:59:16,555][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:59:16,555][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-23 17:59:16,578][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-23 17:59:16,590][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-23 17:59:16,591][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma
+[2023-02-23 17:59:16,591][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:59:16,591][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-23 17:59:16,604][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-23 17:59:16,764][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-23 17:59:17,012][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-23 17:59:17,012][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-23 17:59:17,027][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-23 17:59:17,027][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-23 17:59:17,043][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-23 17:59:18,303][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma
+[2023-02-23 17:59:19,304][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma
+[2023-02-23 17:59:20,306][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma
+[2023-02-23 17:59:21,307][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma
+[2023-02-23 17:59:22,309][INFO|main.py:23] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma
+[2023-02-23 17:59:32,463][ERROR|wadog.py:32] >> Error
+[2023-02-23 17:59:32,463][INFO|main.py:44] >> Watching Dir Start....
+[2023-02-24 13:42:13,768][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-24 13:42:13,769][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma
+[2023-02-24 13:42:13,769][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:13,769][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-24 13:42:13,786][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-24 13:42:13,786][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma
+[2023-02-24 13:42:13,787][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:13,787][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-24 13:42:13,787][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:13,801][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-24 13:42:13,822][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-24 13:42:13,823][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma
+[2023-02-24 13:42:13,823][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:13,823][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-24 13:42:13,839][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-24 13:42:13,860][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-24 13:42:13,860][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma
+[2023-02-24 13:42:13,860][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:13,861][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-24 13:42:13,876][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-24 13:42:13,895][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-24 13:42:13,895][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma
+[2023-02-24 13:42:13,895][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:13,895][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-24 13:42:13,911][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-24 13:42:13,930][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-24 13:42:13,931][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma
+[2023-02-24 13:42:13,931][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:13,931][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-24 13:42:13,945][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-24 13:42:13,961][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-24 13:42:13,961][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma
+[2023-02-24 13:42:13,961][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:13,961][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-24 13:42:13,977][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-24 13:42:14,229][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma', is_directory=False>
+[2023-02-24 13:42:14,252][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma', is_directory=False>
+[2023-02-24 13:42:14,252][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma', is_directory=False>
+[2023-02-24 13:42:14,274][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma', is_directory=False>
+[2023-02-24 13:42:14,274][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma', is_directory=False>
+[2023-02-24 13:42:14,290][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma', is_directory=False>
+[2023-02-24 13:42:14,290][INFO|wadog.py:74] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma', is_directory=False>
+[2023-02-24 13:42:14,387][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:15,216][INFO|main.py:24] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 2.wma
+[2023-02-24 13:42:16,853][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:17,008][INFO|main.py:24] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 3.wma
+[2023-02-24 13:42:17,398][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:19,065][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:19,641][INFO|wadog.py:74] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-02-24 13:42:23,709][INFO|main.py:24] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 4.wma
+[2023-02-24 13:42:25,296][INFO|main.py:24] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 5.wma
+[2023-02-24 13:42:27,554][INFO|main.py:24] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 6.wma
+[2023-02-24 13:42:29,607][INFO|main.py:24] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 7.wma
+[2023-02-24 13:42:37,762][INFO|main.py:24] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/sample4 복사본 8.wma
