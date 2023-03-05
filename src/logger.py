@@ -11,7 +11,7 @@ class Logger:
 
         # handler 생성 (stream, file)
         streamHandler = logging.StreamHandler()
-        fileHandler = logging.FileHandler("../test.log")
+        fileHandler = logging.FileHandler("../ASR_DHS.log")
         fileHandler.setFormatter(formatter)
 
         # logger instance에 handler 설정

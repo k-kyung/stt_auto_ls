@@ -1,10 +1,11 @@
 {
     "stt_url": "http://stt.ainapidev.shinhan.com/asr/recognition/?productcod=SHB&algin=yes&transactionid=0%domain=IPCC",
     "database": {
-        "url": "172.23.248.134:1843/DSTMDB",
-        "user": "AIICON",
-        "password": "cia25noc48 "
+        "url": "localhost:1521/DSTMDB",
+        "user": "AICOWN",
+        "password": "1234"
     },
     "watch_path": "/Users/a60156661/Desktop/Project/STT Auto Learning System/audio",
-    "request_num": "5"
+    "request_num": "5",
+    "wav_path": "/Users/a60156661/Desktop/Project/STT Auto Learning System/wav"
 }

@@ -59,11 +59,7 @@ class Handler(FileSystemEventHandler):
                 2. exe 파일
                 3. lnk 파일
             """
-            if Extension == ".wma":
-                logger.info(event.src_path)
-                self.queue.append(event.src_path)
-
-            elif Extension == ".txt":
+            if Extension == ".txt":
                 logger.info(event.src_path)
                 self.queue.append(event.src_path)
 

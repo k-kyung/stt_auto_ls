@@ -1,0 +1,472 @@
+[2023-03-05 19:04:37,685][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:04:37,686][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:04:37,686][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:04:37,696][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:04:37,696][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:04:37,696][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:04:37,696][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:04:37,719][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:04:37,732][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:04:37,732][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt
+[2023-03-05 19:04:37,732][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:04:37,732][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:04:37,801][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:04:37,801][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:04:37,813][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:04:38,709][INFO|main.py:43] >> ['123456789_Capture.wma', '123456789_Loopback.wma', '20230302', '000000', '15600', '21101655', '조치형', '21101655']
+[2023-03-05 19:04:40,392][INFO|main.py:66] >> Success in Converting llsollu Audio Format
+[2023-03-05 19:04:40,632][INFO|main.py:89] >> Success in receiving STT Text
+[2023-03-05 19:04:40,633][INFO|main.py:177] >> [[3288, 3612, '예 안녕하세요 디지털 데스크 조치형 선임 입니다', 'C'], [3660, 3789, '예 안녕하세요', 'A'], [3786, '3993', '아 네 조치형 고객님 맞으세요', 'C'], [4014, 4068, '네네', 'A'], [4114, '4530', '본인확인 때문에 마스크 잠시만 내려주시고 화면 한번만 봐주세요', 'C'], [4899, 5370, '예 다름이 아니라 제가 지금 퇴직연금 해약하고', 'A']]
+[2023-03-05 19:04:40,634][INFO|main.py:218] >> TO_CLOB("C|3288|3612|예 안녕하세요 디지털 데스크 조치형 선임 입니다
+A|3660|3699|예")| chr(10) |
+TO_CLOB("A|3702|3789|안녕하세요
+C|3786|3828|아 네")| chr(10) |
+TO_CLOB("C|3831|3993|조치형 고객님 맞으세요
+A|4014|4068|네네")| chr(10) |
+TO_CLOB("C|4114|4161|본인확인
+C|4164|4254|때문에 마스크")| chr(10) |
+TO_CLOB("C|4257|4299|잠시만
+C|4302|4380|내려주시고")| chr(10) |
+TO_CLOB("C|4383|4530|화면 한번만 봐주세요
+A|4899|4923|예")| chr(10) |
+TO_CLOB("A|4926|5022|다름이 아니라
+A|5028|5076|제가 지금")| chr(10) |
+TO_CLOB("A|5085|5205|퇴직연금
+A|5253|5370|해약하고")
+[2023-03-05 19:04:40,634][INFO|main.py:220] >> Success in Parsing Text
+[2023-03-05 19:04:40,792][INFO|oracleDao.py:78] >> Success in Inserting Data
+[2023-03-05 19:04:43,356][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:05:04,381][ERROR|wadog.py:32] >> Error
+[2023-03-05 19:05:04,382][INFO|main.py:250] >> Watching Dir Start....
+[2023-03-05 19:06:36,269][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:06:36,269][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:06:36,269][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:06:36,283][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:06:36,295][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:06:36,295][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:06:36,295][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:06:36,326][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:06:36,327][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt
+[2023-03-05 19:06:36,327][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:06:36,327][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:06:36,415][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:06:36,415][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:06:36,428][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:06:36,617][INFO|main.py:43] >> ['123456789_Capture.wma', '123456789_Loopback.wma', '20230302', '000000', '15600', '21101655', '조치형', '21101655']
+[2023-03-05 19:06:38,285][INFO|main.py:66] >> Success in Converting llsollu Audio Format
+[2023-03-05 19:06:38,498][INFO|main.py:89] >> Success in receiving STT Text
+[2023-03-05 19:06:38,499][INFO|main.py:177] >> [[3288, 3612, '예 안녕하세요 디지털 데스크 조치형 선임 입니다', 'C'], [3660, 3789, '예 안녕하세요', 'A'], [3786, '3993', '아 네 조치형 고객님 맞으세요', 'C'], [4014, 4068, '네네', 'A'], [4114, '4530', '본인확인 때문에 마스크 잠시만 내려주시고 화면 한번만 봐주세요', 'C'], [4899, 5370, '예 다름이 아니라 제가 지금 퇴직연금 해약하고', 'A']]
+[2023-03-05 19:06:38,499][INFO|main.py:218] >> TO_CLOB("C|3288|3612|예 안녕하세요 디지털 데스크 조치형 선임 입니다
+A|3660|3699|예")| chr(10) |
+TO_CLOB("A|3702|3789|안녕하세요
+C|3786|3828|아 네")| chr(10) |
+TO_CLOB("C|3831|3993|조치형 고객님 맞으세요
+A|4014|4068|네네")| chr(10) |
+TO_CLOB("C|4114|4161|본인확인
+C|4164|4254|때문에 마스크")| chr(10) |
+TO_CLOB("C|4257|4299|잠시만
+C|4302|4380|내려주시고")| chr(10) |
+TO_CLOB("C|4383|4530|화면 한번만 봐주세요
+A|4899|4923|예")| chr(10) |
+TO_CLOB("A|4926|5022|다름이 아니라
+A|5028|5076|제가 지금")| chr(10) |
+TO_CLOB("A|5085|5205|퇴직연금
+A|5253|5370|해약하고")
+[2023-03-05 19:06:38,499][INFO|main.py:220] >> Success in Parsing Text
+[2023-03-05 19:06:38,639][ERROR|oracleDao.py:80] >> Can't Connect DB
+[2023-03-05 19:06:38,784][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:06:40,864][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:06:40,875][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:06:47,778][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:06:47,778][INFO|wadog.py:67] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:06:47,778][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:06:47,810][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:06:47,811][INFO|wadog.py:67] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:06:47,811][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:06:47,926][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:06:47,926][INFO|wadog.py:67] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:06:47,926][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:06:49,899][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:06:51,521][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:08:28,755][ERROR|wadog.py:32] >> Error
+[2023-03-05 19:08:28,756][INFO|main.py:250] >> Watching Dir Start....
+[2023-03-05 19:30:35,178][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:30:35,179][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:30:35,179][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:30:35,191][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:30:35,192][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:30:35,204][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:30:35,204][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:30:35,204][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:30:35,219][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:30:35,233][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:30:35,233][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt
+[2023-03-05 19:30:35,233][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:30:35,233][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:30:35,698][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:30:35,709][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:30:36,202][INFO|main.py:43] >> ['123456789_Capture.wma', '123456789_Loopback.wma', '20230302', '000000', '15600', '21101655', '조치형', '21101655']
+[2023-03-05 19:30:37,827][INFO|main.py:66] >> Success in Converting llsollu Audio Format
+[2023-03-05 19:30:38,083][INFO|main.py:89] >> Success in receiving STT Text
+[2023-03-05 19:30:38,084][INFO|main.py:177] >> [[3288, 3612, '예 안녕하세요 디지털 데스크 조치형 선임 입니다', 'C'], [3660, 3789, '예 안녕하세요', 'A'], [3786, '3993', '아 네 조치형 고객님 맞으세요', 'C'], [4014, 4068, '네네', 'A'], [4114, '4530', '본인확인 때문에 마스크 잠시만 내려주시고 화면 한번만 봐주세요', 'C'], [4899, 5370, '예 다름이 아니라 제가 지금 퇴직연금 해약하고', 'A']]
+[2023-03-05 19:30:38,085][INFO|main.py:218] >> TO_CLOB("C|3288|3612|예 안녕하세요 디지털 데스크 조치형 선임 입니다
+A|3660|3699|예")| chr(10) |
+TO_CLOB("A|3702|3789|안녕하세요
+C|3786|3828|아 네")| chr(10) |
+TO_CLOB("C|3831|3993|조치형 고객님 맞으세요
+A|4014|4068|네네")| chr(10) |
+TO_CLOB("C|4114|4161|본인확인
+C|4164|4254|때문에 마스크")| chr(10) |
+TO_CLOB("C|4257|4299|잠시만
+C|4302|4380|내려주시고")| chr(10) |
+TO_CLOB("C|4383|4530|화면 한번만 봐주세요
+A|4899|4923|예")| chr(10) |
+TO_CLOB("A|4926|5022|다름이 아니라
+A|5028|5076|제가 지금")| chr(10) |
+TO_CLOB("A|5085|5205|퇴직연금
+A|5253|5370|해약하고")
+[2023-03-05 19:30:38,085][INFO|main.py:220] >> Success in Parsing Text
+[2023-03-05 19:30:38,206][ERROR|oracleDao.py:79] >> Can't Connect DB
+[2023-03-05 19:30:38,248][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:30:40,344][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:31:36,474][ERROR|wadog.py:32] >> Error
+[2023-03-05 19:31:36,475][INFO|main.py:250] >> Watching Dir Start....
+[2023-03-05 19:34:07,161][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:34:08,597][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:34:08,608][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:34:11,649][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:34:11,649][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:34:11,649][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:34:11,664][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:34:11,675][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:34:11,675][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:34:11,676][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:34:11,704][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:34:11,744][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:34:11,744][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt
+[2023-03-05 19:34:11,744][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:34:11,744][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:34:11,818][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:34:11,818][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:34:11,832][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:34:12,103][INFO|main.py:43] >> ['123456789_Capture.wma', '123456789_Loopback.wma', '20230302', '000000', '15600', '21101655', '조치형', '21101655']
+[2023-03-05 19:34:13,742][INFO|main.py:66] >> Success in Converting llsollu Audio Format
+[2023-03-05 19:34:13,976][INFO|main.py:89] >> Success in receiving STT Text
+[2023-03-05 19:34:13,977][INFO|main.py:177] >> [[3288, 3612, '예 안녕하세요 디지털 데스크 조치형 선임 입니다', 'C'], [3660, 3789, '예 안녕하세요', 'A'], [3786, '3993', '아 네 조치형 고객님 맞으세요', 'C'], [4014, 4068, '네네', 'A'], [4114, '4530', '본인확인 때문에 마스크 잠시만 내려주시고 화면 한번만 봐주세요', 'C'], [4899, 5370, '예 다름이 아니라 제가 지금 퇴직연금 해약하고', 'A']]
+[2023-03-05 19:34:13,977][INFO|main.py:218] >> TO_CLOB("C|3288|3612|예 안녕하세요 디지털 데스크 조치형 선임 입니다
+A|3660|3699|예")| chr(10) |
+TO_CLOB("A|3702|3789|안녕하세요
+C|3786|3828|아 네")| chr(10) |
+TO_CLOB("C|3831|3993|조치형 고객님 맞으세요
+A|4014|4068|네네")| chr(10) |
+TO_CLOB("C|4114|4161|본인확인
+C|4164|4254|때문에 마스크")| chr(10) |
+TO_CLOB("C|4257|4299|잠시만
+C|4302|4380|내려주시고")| chr(10) |
+TO_CLOB("C|4383|4530|화면 한번만 봐주세요
+A|4899|4923|예")| chr(10) |
+TO_CLOB("A|4926|5022|다름이 아니라
+A|5028|5076|제가 지금")| chr(10) |
+TO_CLOB("A|5085|5205|퇴직연금
+A|5253|5370|해약하고")
+[2023-03-05 19:34:13,977][INFO|main.py:220] >> Success in Parsing Text
+[2023-03-05 19:34:14,099][ERROR|oracleDao.py:79] >> Can't Connect DB
+[2023-03-05 19:34:14,422][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:34:16,744][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:35:00,530][ERROR|wadog.py:32] >> Error
+[2023-03-05 19:35:00,530][INFO|main.py:250] >> Watching Dir Start....
+[2023-03-05 19:35:10,634][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:35:10,635][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:35:10,635][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:35:10,646][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:35:10,659][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:35:10,659][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:35:10,659][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:35:10,671][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:35:10,671][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:35:10,671][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt
+[2023-03-05 19:35:10,671][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:35:10,671][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:35:11,152][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:35:11,152][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:35:11,660][INFO|main.py:43] >> ['123456789_Capture.wma', '123456789_Loopback.wma', '20230302', '000000', '15600', '21101655', '조치형', '21101655']
+[2023-03-05 19:35:13,059][INFO|main.py:66] >> Success in Converting llsollu Audio Format
+[2023-03-05 19:35:13,132][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:35:13,289][INFO|main.py:89] >> Success in receiving STT Text
+[2023-03-05 19:35:13,290][INFO|main.py:177] >> [[3288, 3612, '예 안녕하세요 디지털 데스크 조치형 선임 입니다', 'C'], [3660, 3789, '예 안녕하세요', 'A'], [3786, '3993', '아 네 조치형 고객님 맞으세요', 'C'], [4014, 4068, '네네', 'A'], [4114, '4530', '본인확인 때문에 마스크 잠시만 내려주시고 화면 한번만 봐주세요', 'C'], [4899, 5370, '예 다름이 아니라 제가 지금 퇴직연금 해약하고', 'A']]
+[2023-03-05 19:35:13,291][INFO|main.py:218] >> TO_CLOB("C|3288|3612|예 안녕하세요 디지털 데스크 조치형 선임 입니다
+A|3660|3699|예")| chr(10) |
+TO_CLOB("A|3702|3789|안녕하세요
+C|3786|3828|아 네")| chr(10) |
+TO_CLOB("C|3831|3993|조치형 고객님 맞으세요
+A|4014|4068|네네")| chr(10) |
+TO_CLOB("C|4114|4161|본인확인
+C|4164|4254|때문에 마스크")| chr(10) |
+TO_CLOB("C|4257|4299|잠시만
+C|4302|4380|내려주시고")| chr(10) |
+TO_CLOB("C|4383|4530|화면 한번만 봐주세요
+A|4899|4923|예")| chr(10) |
+TO_CLOB("A|4926|5022|다름이 아니라
+A|5028|5076|제가 지금")| chr(10) |
+TO_CLOB("A|5085|5205|퇴직연금
+A|5253|5370|해약하고")
+[2023-03-05 19:35:13,291][INFO|main.py:220] >> Success in Parsing Text
+[2023-03-05 19:35:13,378][ERROR|oracleDao.py:81] >> Can't Connect DB
+[2023-03-05 19:35:15,257][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:35:38,784][ERROR|wadog.py:32] >> Error
+[2023-03-05 19:35:38,784][INFO|main.py:250] >> Watching Dir Start....
+[2023-03-05 19:36:42,759][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:36:42,759][INFO|wadog.py:67] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:36:42,759][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:36:42,795][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:36:42,795][INFO|wadog.py:67] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:36:42,795][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:36:42,976][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:36:42,976][INFO|wadog.py:67] >> <FileDeletedEvent: event_type=deleted, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:36:42,976][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:36:45,160][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:36:45,160][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:36:45,160][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:36:45,172][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:36:45,172][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:36:45,172][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:36:45,173][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:36:45,189][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:36:45,204][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:36:45,204][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt
+[2023-03-05 19:36:45,204][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:36:45,204][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:36:45,571][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:36:45,673][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:36:45,673][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:36:45,707][INFO|main.py:43] >> ['123456789_Capture.wma', '123456789_Loopback.wma', '20230302', '000000', '15600', '21101655', '조치형', '21101655']
+[2023-03-05 19:36:47,148][INFO|main.py:66] >> Success in Converting llsollu Audio Format
+[2023-03-05 19:36:47,393][INFO|main.py:89] >> Success in receiving STT Text
+[2023-03-05 19:36:47,395][INFO|main.py:177] >> [[3288, 3612, '예 안녕하세요 디지털 데스크 조치형 선임 입니다', 'C'], [3660, 3789, '예 안녕하세요', 'A'], [3786, '3993', '아 네 조치형 고객님 맞으세요', 'C'], [4014, 4068, '네네', 'A'], [4114, '4530', '본인확인 때문에 마스크 잠시만 내려주시고 화면 한번만 봐주세요', 'C'], [4899, 5370, '예 다름이 아니라 제가 지금 퇴직연금 해약하고', 'A']]
+[2023-03-05 19:36:47,395][INFO|main.py:218] >> TO_CLOB("C|3288|3612|예 안녕하세요 디지털 데스크 조치형 선임 입니다
+A|3660|3699|예")| chr(10) |
+TO_CLOB("A|3702|3789|안녕하세요
+C|3786|3828|아 네")| chr(10) |
+TO_CLOB("C|3831|3993|조치형 고객님 맞으세요
+A|4014|4068|네네")| chr(10) |
+TO_CLOB("C|4114|4161|본인확인
+C|4164|4254|때문에 마스크")| chr(10) |
+TO_CLOB("C|4257|4299|잠시만
+C|4302|4380|내려주시고")| chr(10) |
+TO_CLOB("C|4383|4530|화면 한번만 봐주세요
+A|4899|4923|예")| chr(10) |
+TO_CLOB("A|4926|5022|다름이 아니라
+A|5028|5076|제가 지금")| chr(10) |
+TO_CLOB("A|5085|5205|퇴직연금
+A|5253|5370|해약하고")
+[2023-03-05 19:36:47,396][INFO|main.py:220] >> Success in Parsing Text
+[2023-03-05 19:36:47,503][INFO|oracleDao.py:77] >> Success in Inserting Data
+[2023-03-05 19:36:47,752][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:36:49,903][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:37:58,275][ERROR|wadog.py:32] >> Error
+[2023-03-05 19:37:58,275][INFO|main.py:250] >> Watching Dir Start....
+[2023-03-05 19:39:38,623][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:39:40,618][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:39:40,618][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:39:40,619][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:39:40,634][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:39:40,634][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:39:40,634][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:39:40,653][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:39:40,653][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt
+[2023-03-05 19:39:40,653][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:39:40,653][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:39:41,130][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:39:41,130][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:39:41,142][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:39:41,363][INFO|main.py:43] >> ['123456789_Capture.wma', '123456789_Loopback.wma', '20230302', '000000', '15600', '21101655', '조치형', '21101655']
+[2023-03-05 19:39:42,802][INFO|main.py:66] >> Success in Converting llsollu Audio Format
+[2023-03-05 19:39:43,019][INFO|main.py:89] >> Success in receiving STT Text
+[2023-03-05 19:39:43,020][INFO|main.py:177] >> [[3288, 3612, '예 안녕하세요 디지털 데스크 조치형 선임 입니다', 'C'], [3660, 3789, '예 안녕하세요', 'A'], [3786, '3993', '아 네 조치형 고객님 맞으세요', 'C'], [4014, 4068, '네네', 'A'], [4114, '4530', '본인확인 때문에 마스크 잠시만 내려주시고 화면 한번만 봐주세요', 'C'], [4899, 5370, '예 다름이 아니라 제가 지금 퇴직연금 해약하고', 'A']]
+[2023-03-05 19:39:43,020][INFO|main.py:225] >> TO_CLOB("C||3288||3612||예 안녕하세요 디지털 데스크 조치형 선임 입니다
+A||3660||3699||예")|| chr(10) ||
+TO_CLOB("A||3702||3789||안녕하세요
+C||3786||3828||아 네")|| chr(10) ||
+TO_CLOB("C||3831||3993||조치형 고객님 맞으세요
+A||4014||4068||네네")|| chr(10) ||
+TO_CLOB("C||4114||4161||본인확인
+C||4164||4254||때문에 마스크")|| chr(10) ||
+TO_CLOB("C||4257||4299||잠시만
+C||4302||4380||내려주시고")|| chr(10) ||
+TO_CLOB("C||4383||4530||화면 한번만 봐주세요
+A||4899||4923||예")|| chr(10) ||
+TO_CLOB("A||4926||5022||다름이 아니라
+A||5028||5076||제가 지금")|| chr(10) ||
+TO_CLOB("A||5085||5205||퇴직연금
+A||5253||5370||해약하고")
+[2023-03-05 19:39:43,020][INFO|main.py:227] >> Success in Parsing Text
+[2023-03-05 19:39:43,105][INFO|oracleDao.py:77] >> Success in Inserting Data
+[2023-03-05 19:39:43,649][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:39:45,795][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:40:19,803][ERROR|wadog.py:32] >> Error
+[2023-03-05 19:40:19,804][INFO|main.py:257] >> Watching Dir Start....
+[2023-03-05 19:41:10,462][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:41:11,734][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:41:11,735][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:41:11,735][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:41:11,747][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:41:11,757][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:41:11,757][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:41:11,757][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:41:11,771][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:41:11,771][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:41:11,771][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt
+[2023-03-05 19:41:11,771][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:41:11,771][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:41:11,781][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:41:12,135][INFO|main.py:43] >> ['123456789_Capture.wma', '123456789_Loopback.wma', '20230302', '000000', '15600', '21101655', '조치형', '21101655']
+[2023-03-05 19:41:12,248][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:41:12,248][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:41:13,607][INFO|main.py:66] >> Success in Converting llsollu Audio Format
+[2023-03-05 19:41:13,828][INFO|main.py:89] >> Success in receiving STT Text
+[2023-03-05 19:41:13,829][INFO|main.py:177] >> [[3288, 3612, '예 안녕하세요 디지털 데스크 조치형 선임 입니다', 'C'], [3660, 3789, '예 안녕하세요', 'A'], [3786, '3993', '아 네 조치형 고객님 맞으세요', 'C'], [4014, 4068, '네네', 'A'], [4114, '4530', '본인확인 때문에 마스크 잠시만 내려주시고 화면 한번만 봐주세요', 'C'], [4899, 5370, '예 다름이 아니라 제가 지금 퇴직연금 해약하고', 'A']]
+[2023-03-05 19:41:13,829][INFO|main.py:218] >> TO_CLOB("C|3288|3612|예 안녕하세요 디지털 데스크 조치형 선임 입니다
+A|3660|3699|예")|| chr(10) ||
+TO_CLOB("A|3702|3789|안녕하세요
+C|3786|3828|아 네")|| chr(10) ||
+TO_CLOB("C|3831|3993|조치형 고객님 맞으세요
+A|4014|4068|네네")|| chr(10) ||
+TO_CLOB("C|4114|4161|본인확인
+C|4164|4254|때문에 마스크")|| chr(10) ||
+TO_CLOB("C|4257|4299|잠시만
+C|4302|4380|내려주시고")|| chr(10) ||
+TO_CLOB("C|4383|4530|화면 한번만 봐주세요
+A|4899|4923|예")|| chr(10) ||
+TO_CLOB("A|4926|5022|다름이 아니라
+A|5028|5076|제가 지금")|| chr(10) ||
+TO_CLOB("A|5085|5205|퇴직연금
+A|5253|5370|해약하고")
+[2023-03-05 19:41:13,829][INFO|main.py:220] >> Success in Parsing Text
+[2023-03-05 19:41:13,918][INFO|oracleDao.py:77] >> Success in Inserting Data
+[2023-03-05 19:41:14,564][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:41:16,673][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:41:46,785][ERROR|wadog.py:32] >> Error
+[2023-03-05 19:41:46,785][INFO|main.py:250] >> Watching Dir Start....
+[2023-03-05 19:44:03,915][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:44:05,879][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:44:05,879][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:44:05,879][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:44:05,890][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:44:05,905][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:44:05,905][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:44:05,905][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:44:05,924][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:44:05,924][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt
+[2023-03-05 19:44:05,924][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:44:05,924][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:44:06,394][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:44:06,407][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:44:06,407][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:44:06,576][INFO|main.py:43] >> ['123456789_Capture.wma', '123456789_Loopback.wma', '20230302', '000000', '15600', '21101655', '조치형', '21101655']
+[2023-03-05 19:44:07,987][INFO|main.py:66] >> Success in Converting llsollu Audio Format
+[2023-03-05 19:44:08,215][INFO|main.py:89] >> Success in receiving STT Text
+[2023-03-05 19:44:08,216][INFO|main.py:177] >> [[3288, 3612, '예 안녕하세요 디지털 데스크 조치형 선임 입니다', 'C'], [3660, 3789, '예 안녕하세요', 'A'], [3786, '3993', '아 네 조치형 고객님 맞으세요', 'C'], [4014, 4068, '네네', 'A'], [4114, '4530', '본인확인 때문에 마스크 잠시만 내려주시고 화면 한번만 봐주세요', 'C'], [4899, 5370, '예 다름이 아니라 제가 지금 퇴직연금 해약하고', 'A']]
+[2023-03-05 19:44:08,216][INFO|main.py:218] >> TO_CLOB('C|3288|3612|예 안녕하세요 디지털 데스크 조치형 선임 입니다
+A|3660|3699|예')|| chr(10) ||
+TO_CLOB('A|3702|3789|안녕하세요
+C|3786|3828|아 네')|| chr(10) ||
+TO_CLOB('C|3831|3993|조치형 고객님 맞으세요
+A|4014|4068|네네')|| chr(10) ||
+TO_CLOB('C|4114|4161|본인확인
+C|4164|4254|때문에 마스크')|| chr(10) ||
+TO_CLOB('C|4257|4299|잠시만
+C|4302|4380|내려주시고')|| chr(10) ||
+TO_CLOB('C|4383|4530|화면 한번만 봐주세요
+A|4899|4923|예')|| chr(10) ||
+TO_CLOB('A|4926|5022|다름이 아니라
+A|5028|5076|제가 지금')|| chr(10) ||
+TO_CLOB('A|5085|5205|퇴직연금
+A|5253|5370|해약하고')
+[2023-03-05 19:44:08,216][INFO|main.py:220] >> Success in Parsing Text
+[2023-03-05 19:44:08,341][ERROR|oracleDao.py:80] >> Can't Connect DB
+[2023-03-05 19:44:09,102][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:44:11,187][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:44:26,499][ERROR|wadog.py:32] >> Error
+[2023-03-05 19:44:26,500][INFO|main.py:250] >> Watching Dir Start....
+[2023-03-05 19:45:59,560][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:46:01,091][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:46:02,029][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:46:02,029][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:46:02,029][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:46:02,046][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:46:02,047][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:46:02,047][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:46:02,062][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:46:02,063][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:46:02,063][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt
+[2023-03-05 19:46:02,063][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:46:02,063][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:46:02,078][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:46:02,078][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:46:02,090][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:46:02,223][INFO|main.py:43] >> ['123456789_Capture.wma', '123456789_Loopback.wma', '20230302', '000000', '15600', '21101655', '조치형', '21101655']
+[2023-03-05 19:46:03,694][INFO|main.py:66] >> Success in Converting llsollu Audio Format
+[2023-03-05 19:46:03,915][INFO|main.py:89] >> Success in receiving STT Text
+[2023-03-05 19:46:03,916][INFO|main.py:177] >> [[3288, 3612, '예 안녕하세요 디지털 데스크 조치형 선임 입니다', 'C'], [3660, 3789, '예 안녕하세요', 'A'], [3786, '3993', '아 네 조치형 고객님 맞으세요', 'C'], [4014, 4068, '네네', 'A'], [4114, '4530', '본인확인 때문에 마스크 잠시만 내려주시고 화면 한번만 봐주세요', 'C'], [4899, 5370, '예 다름이 아니라 제가 지금 퇴직연금 해약하고', 'A']]
+[2023-03-05 19:46:03,917][INFO|main.py:218] >> TO_CLOB('C|3288|3612|예 안녕하세요 디지털 데스크 조치형 선임 입니다
+A|3660|3699|예')|| chr(10) ||
+TO_CLOB('A|3702|3789|안녕하세요
+C|3786|3828|아 네')|| chr(10) ||
+TO_CLOB('C|3831|3993|조치형 고객님 맞으세요
+A|4014|4068|네네')|| chr(10) ||
+TO_CLOB('C|4114|4161|본인확인
+C|4164|4254|때문에 마스크')|| chr(10) ||
+TO_CLOB('C|4257|4299|잠시만
+C|4302|4380|내려주시고')|| chr(10) ||
+TO_CLOB('C|4383|4530|화면 한번만 봐주세요
+A|4899|4923|예')|| chr(10) ||
+TO_CLOB('A|4926|5022|다름이 아니라
+A|5028|5076|제가 지금')|| chr(10) ||
+TO_CLOB('A|5085|5205|퇴직연금
+A|5253|5370|해약하고')
+[2023-03-05 19:46:03,917][INFO|main.py:220] >> Success in Parsing Text
+[2023-03-05 19:46:04,050][ERROR|oracleDao.py:80] >> Can't Connect DB
+[2023-03-05 19:46:04,498][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:46:06,787][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:46:26,995][ERROR|wadog.py:32] >> Error
+[2023-03-05 19:46:26,996][INFO|main.py:250] >> Watching Dir Start....
+[2023-03-05 19:47:25,577][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:47:25,577][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:47:25,577][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:47:25,587][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:47:25,597][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:47:25,597][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:47:25,597][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:47:25,626][INFO|wadog.py:48] >> <FileCreatedEvent: event_type=created, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:47:25,626][INFO|wadog.py:63] >> /Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt
+[2023-03-05 19:47:25,626][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:47:25,626][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:47:26,080][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Capture.wma', is_directory=False>
+[2023-03-05 19:47:26,092][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789_Loopback.wma', is_directory=False>
+[2023-03-05 19:47:26,092][INFO|wadog.py:70] >> <FileModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio/123456789.txt', is_directory=False>
+[2023-03-05 19:47:26,371][INFO|main.py:43] >> ['123456789_Capture.wma', '123456789_Loopback.wma', '20230302', '000000', '15600', '21101655', '조치형', '21101655']
+[2023-03-05 19:47:27,783][INFO|main.py:66] >> Success in Converting llsollu Audio Format
+[2023-03-05 19:47:27,991][INFO|main.py:89] >> Success in receiving STT Text
+[2023-03-05 19:47:27,992][INFO|main.py:177] >> [[3288, 3612, '예 안녕하세요 디지털 데스크 조치형 선임 입니다', 'C'], [3660, 3789, '예 안녕하세요', 'A'], [3786, '3993', '아 네 조치형 고객님 맞으세요', 'C'], [4014, 4068, '네네', 'A'], [4114, '4530', '본인확인 때문에 마스크 잠시만 내려주시고 화면 한번만 봐주세요', 'C'], [4899, 5370, '예 다름이 아니라 제가 지금 퇴직연금 해약하고', 'A']]
+[2023-03-05 19:47:27,992][INFO|main.py:218] >> TO_CLOB('C|3288|3612|예 안녕하세요 디지털 데스크 조치형 선임 입니다
+A|3660|3699|예')|| chr(10) ||
+TO_CLOB('A|3702|3789|안녕하세요
+C|3786|3828|아 네')|| chr(10) ||
+TO_CLOB('C|3831|3993|조치형 고객님 맞으세요
+A|4014|4068|네네')|| chr(10) ||
+TO_CLOB('C|4114|4161|본인확인
+C|4164|4254|때문에 마스크')|| chr(10) ||
+TO_CLOB('C|4257|4299|잠시만
+C|4302|4380|내려주시고')|| chr(10) ||
+TO_CLOB('C|4383|4530|화면 한번만 봐주세요
+A|4899|4923|예')|| chr(10) ||
+TO_CLOB('A|4926|5022|다름이 아니라
+A|5028|5076|제가 지금')|| chr(10) ||
+TO_CLOB('A|5085|5205|퇴직연금
+A|5253|5370|해약하고')
+[2023-03-05 19:47:27,992][INFO|main.py:220] >> Success in Parsing Text
+[2023-03-05 19:47:28,080][INFO|oracleDao.py:77] >> Success in Inserting Data
+[2023-03-05 19:47:28,915][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:47:31,316][INFO|wadog.py:70] >> <DirModifiedEvent: event_type=modified, src_path='/Users/a60156661/Desktop/Project/STT Auto Learning System/audio', is_directory=True>
+[2023-03-05 19:48:27,456][ERROR|wadog.py:32] >> Error
+[2023-03-05 19:48:27,457][INFO|main.py:250] >> Watching Dir Start....

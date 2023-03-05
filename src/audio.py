@@ -14,7 +14,6 @@ class Audio:
     format: str
 
     def __init__(self, input_path):
-        logger.info("init Audio class")
         self.audio_file = AudioSegment.from_file(input_path)
 
     def convert_stereo_to_mono(self):
