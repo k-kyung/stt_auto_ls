@@ -1,2 +1,38 @@
 # stt_auto_ls
 STT 자동학습체계 구축
+
+
+docker run -d --name oracle19db  -p 1521:1521  -e ORACLE_SID=DSTMDB -e ORACLE_PDB=MONGOPDB -e ORACLE_PWD=Oracle123 banglamon/oracle193db:19.3.0-ee
+
+docker exec -it oracle19db bash -c "source /home/oracle/.bashrc; sqlplus /nolog” 
+
+create user AICOWN identified by 1234;
+grant connect, resource, dba to AICOWN;
+
+create table AICOWN.AIC_DIGITADESK_CONSULT_STT
+(
+    RECORD_ID VARCHAR2(30) NOT NULL,
+    RECORD_DT CHAR(8) NOT NULL,
+    RECORD_TIME VARCHAR2(6) NOT NULL,
+    CUSNO NUMBER(10) NOT NULL,
+    RECORD_CHL VARCHAR2(30) NULL,
+    CNSL_G VARCHAR2(5) NULL,
+    RECORD_FILE_NM VARCHAR2(100) NULL,
+    CNSL_APPKEY VARCHAR2(30) NULL,
+    SANGDAM_HWNNO NUMBER(8) NULL,
+    CNSL_CTNT CLOB NULL,
+    RECORD_TIME_V VARCHAR2(14) NULL,
+    DB_DR_TIMES_V VARCHAR2(14) NULL,
+    DB_DRDT VARCHAR2(8) NULL,
+    DB_DR_TIME VARCHAR2(6) NULL
+)
+
+create table AICOWN.AIC_DIGITADESK_CONSULT_STT_TEST
+(
+    RECORD_ID VARCHAR2(30) NOT NULL,
+    RECORD_DT CHAR(8) NOT NULL
+)
+
+connect sys/oracle as sysdba
+
+select TO_CHAR(SYSDATE, 'HH24MISS') from AICOWN.AIC_DIGITADESK_CONSULT_STT
